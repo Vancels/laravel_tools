@@ -1,0 +1,25 @@
+{
+  "name": "vancels/laravel_tools",
+  "description": "laravel tools",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mr.Wang",
+      "email": "281762391@qq.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/Vancels/laravel_tools/issues"
+  },
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/controllers"
+    ],
+    "psr-0": {
+      "Vancels\\Tools": "src/"
+    }
+  }
+}

@@ -10,4 +10,5 @@ laravel tools
 
 ```sh
 php artisan vendor:publish
+composer require barryvdh/laravel-ide-helper
 ```
